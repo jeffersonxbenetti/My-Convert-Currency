@@ -27,6 +27,11 @@
   <img src="https://github.com/jeffersonxbenetti/Convert-Currency/blob/main/assets/img/Convert%20Currency.png" />
 </div>
 
+###
+
+<h3 align="center">Link do Site</h3>
 <div align="center">
-  <a href="https://jeffersonxbenetti.github.io/Convert-Currency/">Ir para o site</a>
+  <a href="https://jeffersonxbenetti.github.io/My-Convert-Currency/">
+    <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />
+  </a>
 </div>
